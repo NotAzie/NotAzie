@@ -13,7 +13,7 @@ I spend most of my time talking to my terminal and waiting for it to give me the
 
 ---
 
-**Sus Facts**
+**Facts**
 - I'm not a cat freak... (trust me 😊)
 - I prefer the terminal because nobody can see what I'm typing in the dark
 - I like making weird automation tools that definitely don't run background tasks
