@@ -2,7 +2,7 @@
   <img src="https://octodex.github.com/images/pusheencat.png" width="120" alt="PusheenCat"/>
 </p>
 
-### Hey there! 👋 (Or am I just trying to blend in?)
+### Hey there!  ╰(*°▽°*)╯  
 
 I'm **NotAzie**, a totally normal human software developer based in Chennai, India.  
 I build "robust systems," explore "AI," and definitely care about keeping data under your control. 😉  
